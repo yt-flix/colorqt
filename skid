@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("Cord Hub V1 has been loaded")
+print("Dynamo hub loaded")
 return library
